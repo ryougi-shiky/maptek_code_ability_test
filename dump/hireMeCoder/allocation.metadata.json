@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"hireMeCoder.allocation"}],"uuid":"4070763801394492966447e9f77ac0a8"}
